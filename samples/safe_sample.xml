@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <project>
+        <name>PoC of the Billion Laughs Attack</name>
+        <author>Kai</author>
+        <status>Secure</status>
+        <description>Testing legitimate XML parsing capabilities.</description>
+    </project>
+    <data>
+        <item id="1">Baseline Test Case</item>
+        <item id="2">Non-recursive entity test</item>
+    </data>
+</root>
